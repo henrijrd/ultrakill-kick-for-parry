@@ -6,7 +6,6 @@ Have you ever been soooo bored wishing your filthy disgusting feedbacker would s
 
 This is a fork of [doomah](https://thunderstore.io/c/ultrakill/p/doomahreal/)'s old [KickForParry mod](https://thunderstore.io/c/ultrakill/p/doomahreal/KickForParry/) updated to work properly with the latest version of the game. Leg model, animation, code, everything was made by doomah, all I did was change the shader used for the leg so it looks normal in the game.
 
-It will look a little weird if you parry while holding something (skull, torch, etc.) but there's no easy way to fix that.
 
 ## Contact:
 
