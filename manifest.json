@@ -1,0 +1,7 @@
+{
+    "name": "KickForParry_FIXED",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Replaces the parry animation with a sick ass kick! Updated for fraud.",
+    "dependencies": ["BepInEx-BepInExPack-5.4.2305"]
+}
